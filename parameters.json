@@ -1,0 +1,98 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "networkSecurityGroupName": {
+      "value": "pan-nsg"
+    },
+    "networkSecurityGroupInboundSrcIP": {
+      "value": "0.0.0.0/0"
+    },
+    "virtualNetworkNewOrExisting": {
+      "value": "new"
+    },
+     "MgmtSubnetName": {
+      "value": "panmgmt"
+    },
+     "untrustedSubnetName": {
+      "value": "panuntrust"
+    },
+     "trustedSubnetName": {
+      "value": "pantrust"
+    },
+     "appGatewaySubnetName": {
+      "value": "panappgw"
+    },
+     "backendSubnetName": {
+      "value": "panwww"
+    },
+     "internalLoadBalancerName": {
+      "value": "pan-ilb"
+    },
+     "appGatewayDnsName": {
+      "value": "panvip"
+    },
+    "storageAccountNewOrExisting": {
+      "value": "new"
+    },  
+    "storageAccountName": {
+      "value": "panvirstorage"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "authenticationType": {
+      "value": "password"
+    },
+    "virtualNetworkName": {
+      "value": "pan-vnet"
+    },
+    "virtualNetworkAddressPrefix": {
+      "value": "192.168.0.0/16"
+    },
+    "mgmtSubnetPrefix": {
+      "value": "192.168.1.0/24"
+    },
+    "untrustedSubnetPrefix": {
+      "value": "192.168.2.0/24"
+    },
+    "trustedSubnetPrefix": {
+      "value": "192.168.3.0/24"
+    },
+    "appGatewaySubnetPrefix": {
+      "value": "192.168.4.0/24"
+    },
+    "backendSubnetPrefix": {
+      "value": "192.168.5.0/24"
+    },
+    "appGatewayName": {
+      "value": "pan-appgw"
+    },
+    "username": {
+      "value": "panadmin"
+    },
+    "password": {
+      "value": "P@loAlto123"
+    },
+    "sshPublicKey": {
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCHNqWCYBSTbdRP4sruZoi4kjsTkTDW65Z6nQQG+kdGIYBV/nGy8Ime2wzPlBWlRTqROCa620+l95hfxAz3NRRUi61wIgd6QL0aExSPueoU95i/kGolfA4bWk1Ka0bx6
++HcibM/8r6OIA8kWqDkQqP9EgIHUmyZM+i6nnqzI/nf8CEZ0Y6y5lroHrSDJBJ699PWWTFzhQs8mkvpe4l/Exdcd6eyLGL99AwuadroFdxYvZNpIbkP1Istr73WB3iKplpJGZAoBxEaPJVXHJJOWZBIGaEBMg/oRuVr7FlfLLzHEIibvAIqLM
+pohpA9Ski7CuhP7f/BQhojpoY8X0r6eXO7 schandu-keypair"
+    },
+    "firewallVmName": {
+      "value": "panfw"
+    },
+    "MgmtPublicIPAddressName": {
+      "value": "pandns"
+    },
+    "firewallVmSize": {
+      "value": "Standard_D3_v2"
+    },
+    "backendVmSize": {
+      "value": "Standard_D1_v2"
+    },
+    "firewallModel": {
+      "value": "byol"
+    }
+  }
+} 
