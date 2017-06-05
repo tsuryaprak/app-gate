@@ -20,7 +20,7 @@ Only projects explicitly tagged with "Supported" information are officially supp
  
  **To deply the template US or any other reagion (but China)**
  <br>
- [![Deploy Us & other]<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)
+ [Deploy in US & other <img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)
  
 **To deploy the template in China region** 
 <br>
