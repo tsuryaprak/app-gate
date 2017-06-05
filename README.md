@@ -20,6 +20,6 @@ Only projects explicitly tagged with "Supported" information are officially supp
 
 [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)  AzureCloud
  
-[<img src="http://azuredeploy.net/deploybutton.png"/>]() AzureChinaCloud
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.cn/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json) AzureChinaCloud
 
 
