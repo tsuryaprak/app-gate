@@ -16,15 +16,11 @@ Only projects explicitly tagged with "Supported" information are officially supp
 * Technical Documentation:[VM-Series Deployment Guide] (https://www.paloaltonetworks.com/documentation/71/virtualization/virtualization/set-up-the-vm-series-firewall-in-azure/deploy-the-vm-series-and-azure-application-gateway-template.html)
 * About the [VM-Series Firewall for Azure] (azure.paloaltonetworks.com)
 
-[<img src="https://camo.githubusercontent.com/536ab4f9bc823c2e0ce72fb610aafda57d8c6c12/687474703a2f2f61726d76697a2e696f2f76697375616c697a65627574746f6e2e706e67" data-canonical-src="http://armviz.io/visualizebutton.png" style="max-width:100%;">](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure%2Fmaster%2Fvmseries-simple-template%2FazureDeploy.json)
- 
 
 
-Deploy to US & other Region
-  <br>
  [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)
- 
 
-Deploy to China Region
-<br>
- [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)
+ [<img src="http://azuredeploy.net/AzureChina.png"/>](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)
+
+
+[<img src="https://camo.githubusercontent.com/536ab4f9bc823c2e0ce72fb610aafda57d8c6c12/687474703a2f2f61726d76697a2e696f2f76697375616c697a65627574746f6e2e706e67" data-canonical-src="http://armviz.io/visualizebutton.png" style="max-width:100%;">](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure%2Fmaster%2Fvmseries-simple-template%2FazureDeploy.json)
