@@ -20,11 +20,11 @@ Only projects explicitly tagged with "Supported" information are officially supp
  
 
 
-Deploy in US & other Region
-  <br>
+Deploy to US & other Region
+  <br>
  [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)
  
 
-Deploy in China Region
+Deploy to China Region
 <br>
  [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2Fazure-applicationgateway%2Fmaster%2Fazuredeploy.json)
