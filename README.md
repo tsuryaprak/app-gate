@@ -22,4 +22,5 @@ Only projects explicitly tagged with "Supported" information are officially supp
 
 [ <img src="http://azuredeploy.net/AzureGov.png"/>](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftejaswinisuryaprakash%2Fapp-gate%2Fmaster%2Fazuredeploy.json)  Azure Government 
 
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.microsoftazure.de/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftejaswinisuryaprakash%2Fapp-gate%2Fmaster%2Fazuredeploy.json)   Azure Public Cloud
 
